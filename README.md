@@ -1,2 +1,2 @@
-# ssui
-ssui assignments fall 2019
+# YouTube a11y
+YouTube accessibility project @ CMU
